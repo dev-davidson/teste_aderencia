@@ -1,0 +1,141 @@
+body{
+   margin-top:10px;
+   margin-left:10%;
+   margin-right:10%;
+}
+
+
+header {
+    background-color: #DAD9D9;
+    color: #164F25;
+    padding: 5px 0;
+}
+
+.container {
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-icon {
+    cursor: pointer;
+}
+
+
+
+.texto1 {
+  font-family: 'Noto sans', sans-serif;
+  color:#164F25;
+  font-size:42px
+}
+
+.paragrafo1{
+  font-family: 'Noto sans', sans-serif;
+  color:#000000;
+   font-size:24px
+}
+
+hr{
+  border-radius: 40px;
+}
+
+#texto2 {
+  text-align:left;
+  font-family:'Noto sans', sans-serif;
+  color:#1A6835;
+  background-color:#DCDCDC;
+  padding:40px;
+  border-radius:90px 0px;
+  font-size:14px
+}
+
+.texto3 {
+  text-align:center;
+  font-family:'Noto Sans', sans-serif;
+  color:#164F25;
+  font-size:36px
+}
+
+#container{
+  margin-top:30px;
+}
+
+.container1{
+  font-size:24px;
+  float:left;
+  color:#164F25;
+  font-family: 'Noto Sans', sans-serif;
+  text-align:left;
+  margin-left:70px;
+  
+}
+
+.container1 img {
+  float: left; 
+  margin-right:20px; 
+}
+
+.container02{
+  font-size:20px;
+  float:left;
+  padding:10px;
+  font-family: 'Noto Sans', sans-serif;
+  width:50%;
+  text-align: left;
+  background-color:#C1282A;
+  border-radius:10pt;
+  margin-left:75px;
+  border-radius: 120px 90px 90px 0px;
+}
+
+.container02-texto{
+ color:#FFFFFF; 
+}
+
+.icone-dica {
+  margin: 5px auto;
+  margin-left:400px;
+  transform: rotate(220deg);
+}
+
+.container2{
+  font-size:24px;
+  float:right;
+  padding:20px;
+  font-family: 'Noto Sans', sans-serif;
+  width:90%;
+  text-align:left;
+  background-color:#EED9D8;
+  border-radius:10pt;
+  margin-top:10px;
+}
+
+.container2-texto{
+ color:#5E0000; 
+}
+
+.container3{
+  font-size:24px;
+  float:right;
+  padding:20px;
+  font-family: 'Noto Sans', sans-serif;
+  width:90%;
+  text-align:left;
+  background-color:#DAD4D4;
+  border-radius:10pt;
+  margin-top:90px;
+  text-align:left;
+}
+
+.container3-texto{
+ color:#000000; 
+}
+
+ .container3 img {
+  display: block; 
+  margin: 0 auto;
+}
+
+
